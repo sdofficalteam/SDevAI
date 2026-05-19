@@ -1,0 +1,6 @@
+{
+  "name": "SDevAI Tools Platform",
+  "description": "The Future of Smart AI Tools is Here. AI tools for SEO, content writing, blogging, optimization and creator productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
